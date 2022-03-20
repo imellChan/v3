@@ -658,11 +658,11 @@ switch (command) {
 //══════════[ MENU FEATURES ]══════════//
 case 'help':
        case 'menu':
-teks = `hai Saya Atsair Botz 👋
+teks = `hai Saya ɪ ᴍ ᴇ ʟ B O T Z 👋
 
 ┌─❏ *Info Bot* 
 │❏ヅ *Nama Bot* : Atsair Botz
-│❏ヅ *Owner* : Atsair Gantemg
+│❏ヅ *Owner* : ɪ ᴍ ᴇ ʟ 
 │❏ヅ *Batrei* : Tidak Terdeteksi
 │❏ヅ *Version* : 1.0.0
 └─────────⎘
@@ -691,7 +691,7 @@ teks = `hai Saya Atsair Botz 👋
 │❏ヅ${prefix}ownermenu
 └─────────⎘`
 img = fs.readFileSync('./media/peler.jpg')
-trans = `XyoraOfficial`
+trans = `ɪ ᴍ ᴇ ʟ `
 but = [
           { buttonId: `${prefix}command`, buttonText: { displayText: 'ALL MENU' }, type: 1 },
           { buttonId: `${prefix}owner`, buttonText: { displayText: 'OWNER' }, type: 1 }
